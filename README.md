@@ -7,7 +7,7 @@ Other versions may require some changes to compile/work.
 
 # Installation
 1. Code -> Download ZIP.
-2. Install it like a typical mod.
+2. Install it like a typical mod (make Source the root directory).
 
    SynReqtificator.csproj should end up in the same folder as Reqtificator.csproj.
 3. Run Synthesis and go to Local Solution -> Existing:

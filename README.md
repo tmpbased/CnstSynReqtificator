@@ -12,7 +12,7 @@ Issue: _System.IO.IOException: The process cannot access the file '...\Skyrim\Da
 
 Solution: exit Synthesis -> remove Patches for the Indifferent.esp -> start Synthesis.
 
-Basically, Synthesis uses the esp to build Load Order (or Link Cache?), so Reqtificator can't overwrite it.
+Basically, Synthesis uses the esp to build a Load Order (or Link Cache?), so Reqtificator can't overwrite it.
 I didn't investigate much in terms of what could be done.
 
 Issue: _Editing Reqtificator settings_
